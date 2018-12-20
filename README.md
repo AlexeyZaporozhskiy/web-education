@@ -1,7 +1,7 @@
 # web-education
 my way to Front-end developers
 
-<p>Hello my friends. Welcome in to my repository! </p>
+<h1>Hello my friends. Welcome in to my repository! </h1>
 My name is Aleksey, I'm from Ukraine. 
 I set a goal to learn English, HTML, CSS, JS. No matter how silly it sounds, after 3 months!
 I understand that it is not possible to become a qualified specialist in such a short period of time. But the idea itself is interesting, what can be learned until March 2019. And is it possible to get a remote job, for further education and gaining experience
